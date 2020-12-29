@@ -1,0 +1,11 @@
+.menu-spacer {
+  flex: auto;
+}
+
+mat-toolbar {
+  height: 7vh;
+}
+
+.brand {
+  font-size: 3.2vh;
+}
