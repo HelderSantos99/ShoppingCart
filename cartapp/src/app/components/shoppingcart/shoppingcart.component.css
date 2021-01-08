@@ -1,3 +1,8 @@
 .all {
   padding-top: 35px;
 }
+
+.row {
+  margin: auto;
+  background-color:rgb(205, 212, 226);
+}
