@@ -9,7 +9,10 @@
         <strong>{{ productItem.price | currency: "EUR"}}</strong>
       </p>
       <p class="card-text">
-        {{productItem.description}}
+        <strong>{{productItem.name}}</strong>
+      </p>
+      <p class="card-text">
+        {{productItem.description | slice: 0:80}}...
       </p>
       <div class="d-flex justify-content-between align-items-center">
         <div class="btn-group">

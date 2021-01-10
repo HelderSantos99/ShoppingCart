@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung S20 - 128GB",
+      "description": "Última geração, ótima relação preço/qualidade",
+      "imgUrl": "https://images.samsung.com/is/image/samsung/p5/pt/smartphones/galaxy-s20/s20-fe-buy/carousel-kv/009_sku_kv/mo/S20-FE_Navy_SKUimage.jpg",
+      "price": 605
+    },
+    {
+      "id": 2,
+      "name": "Iphone XR - 64GB",
+      "description": "Última geração 2020, ótima relação preço/qualidade",
+      "imgUrl": "https://images.tcdn.com.br/img/img_prod/733735/iphone_xr_64_gb_product_red_seminovo_desbloqueado_tela_6_1_apple_121_1_20191109161736.jpg",
+      "price": 950
+    },
+    {
+      "id": 3,
+      "name": "Hauwei P30 PRO - 256GB",
+      "description": "Última geração 2020, ótima relação preço/qualidade",
+      "imgUrl": "https://lofficiel.tn/wp-content/uploads/2020/06/lofficiel-HUAWEI-P30-Pro-bardo-2-1.jpg",
+      "price": 515
+    },
+    {
+      "id": 4,
+      "name": "LG K71 - 64GB",
+      "description": "Última geração, ótima relação preço/qualidade",
+      "imgUrl": "https://i2.wp.com/nanobits.tv.br/wp-content/uploads/2020/10/k71-preto.jpg?fit=1000%2C1000&ssl=1",
+      "price": 560
+    },
+    {
+      "id": 5,
+      "name": "TCL 10 PRO - 128GB",
+      "description": "Última geração, ótima relação preço/qualidade",
+      "imgUrl": "https://cdn.shopify.com/s/files/1/2700/1230/products/T1_Pro_Forest_Mist_Green_T799H_large.jpg?v=1600781193",
+      "price": 299
+    },
+    {
+      "id": 6,
+      "name": "Alcatel 3X - 64GB",
+      "description": "Última geração, ótima relação preço/qualidade",
+      "imgUrl": "https://www.gizmochina.com/wp-content/uploads/2019/09/alcatel-3x-2019.jpg",
+      "price": 200
+    }
+  ],
+  "cart": []
+}
